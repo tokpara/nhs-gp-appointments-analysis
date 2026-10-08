@@ -1,0 +1,6 @@
+venv/ 
+.ipynb_checkpoints/ 
+__pycache__/ 
+Appointments_GP_Regional_CSV_Aug_2026/ 
+
+#.gitignore is a list of things git should pretend done exist, never show up in git status
